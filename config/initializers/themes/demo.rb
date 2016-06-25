@@ -8,6 +8,10 @@
     title:          'Line',
     partable_type:  'Spina::Line'
   }, {
+    name:           'line2',
+    title:          'Line2',
+    partable_type:  'Spina::Line'
+  }, {
     name:           'text',
     title:          'Text',
     partable_type:  'Spina::Text'
@@ -73,7 +77,7 @@
     name: 'demo',
     title: 'Demo',
     description: 'Contains examples of every page part',
-    page_parts: ['line', 'text', 'photo', 'photo_collection', 'attachment', 'attachment_collection', 'structure', 'color']
+    page_parts: ['line','line2', 'text', 'photo', 'photo_collection', 'attachment', 'attachment_collection', 'structure', 'color']
   }]
 
   theme.custom_pages = [{

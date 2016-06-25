@@ -1,0 +1,20 @@
+/* line 1, /Users/ytyeoh/Desktop/own/cms/vendor/bundle/gems/spina-template-0.3.3/app/assets/stylesheets/spina/wysihtml5_textarea.sass */
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* line 4, /Users/ytyeoh/Desktop/own/cms/vendor/bundle/gems/spina-template-0.3.3/app/assets/stylesheets/spina/wysihtml5_textarea.sass */
+img {
+  border-radius: 3px;
+  display: block;
+  height: auto;
+  margin: 13px 0;
+  max-height: 100px;
+  max-width: 100px;
+  width: auto;
+}
+
+/* line 13, /Users/ytyeoh/Desktop/own/cms/vendor/bundle/gems/spina-template-0.3.3/app/assets/stylesheets/spina/wysihtml5_textarea.sass */
+img:first-child {
+  margin-top: 0;
+}

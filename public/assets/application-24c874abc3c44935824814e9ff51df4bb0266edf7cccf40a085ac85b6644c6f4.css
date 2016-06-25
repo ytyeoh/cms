@@ -1,0 +1,124 @@
+/* line 6, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+html {
+  font-size: 16px;
+}
+
+/* line 9, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* line 14, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* line 18, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+h1 {
+  font-size: 2.5rem;
+}
+
+/* line 20, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+h2 {
+  font-size: 2rem;
+}
+
+/* line 22, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+h3 {
+  font-size: 1.75rem;
+}
+
+/* line 24, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+h4 {
+  font-size: 1.5rem;
+}
+
+/* line 26, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+h5 {
+  font-size: 1.25rem;
+}
+
+/* line 28, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+h6 {
+  font-size: 1rem;
+}
+
+/* line 31, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* line 35, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* line 39, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+img {
+  vertical-align: middle;
+}
+
+/* line 42, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+a {
+  color: #0275d8;
+  text-decoration: none;
+}
+/* line 46, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+a:hover, a:focus {
+  color: #014c8c;
+  text-decoration: underline;
+}
+
+/* line 50, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+/* line 54, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+.nav {
+  padding-left: 0;
+  margin-bottom: 2rem;
+  list-style: none;
+}
+
+/* line 59, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+.nav-item {
+  display: inline-block;
+}
+
+/* line 62, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+.nav-item + .nav-item {
+  margin-left: 20px;
+}
+
+/* line 65, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+.nav-item.active > a {
+  text-decoration: underline;
+}
+
+/* line 68, /Users/ytyeoh/Desktop/own/cms/app/assets/stylesheets/demo/application.css.sass */
+#languages {
+  float: right;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
